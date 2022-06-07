@@ -17,5 +17,5 @@ This tic-tac-toe project is built in Python and it covers:
   m. Switch user     
   n. Restart game     
   
-  ![Screenshot 2022-06-07 165002](https://user-images.githubusercontent.com/99856353/172338790-fdecec39-7992-4bb9-abc5-b49348b2f39c.png)
+  ![Screenshot 2022-06-07 165002](https://user-images.githubusercontent.com/99856353/172339816-a95ac998-413d-4b99-819b-e8100b1d4456.png)
   ![Screenshot 2022-06-07 165418](https://user-images.githubusercontent.com/99856353/172339420-697e51e1-c7ac-4334-a117-396f670e8ea0.png)
